@@ -1,5 +1,5 @@
->?
+<?
 
-print:Hi this terraform
+print "Hi this terraform"
 
 ?>
